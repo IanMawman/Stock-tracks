@@ -1,0 +1,16 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 60px 0;
+}
+.header h1 {
+    font-size: 3rem;
+}
+.container {
+    padding: 40px 0;
+}
+
